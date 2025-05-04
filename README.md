@@ -135,7 +135,8 @@ Este repositorio contiene el documento correspondiente a la **Actividad 1 - Reun
 
 Aquí puedes consultar el código fuente y el historial del proyecto:
 
-👉 [Enlace al repositorio](https://github.com/TU_USUARIO/TU_REPOSITORIO) *(Reemplaza con el enlace real)*
+👉 git@github.com:trasmiciones/app-m-vil-de-comercio-electronico.git
+
 
 ---
 
