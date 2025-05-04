@@ -87,3 +87,64 @@ Con los ajustes realizados, el producto está optimizado y listo para pruebas fi
 
 - [React – Comunidad y proyectos de ejemplo](https://es.reactjs.org/community/examples.html)  
 - [Ejemplo práctico de desarrollo con React desde cero](https://www.arsys.es/blog/programacion/ejemplo-practico-react/)
+
+# Proyecto Final - Comercio Electrónico 🛒
+
+## 💼 Actividad 1: Reunión de Revisión Inicial
+
+Este repositorio contiene el documento correspondiente a la **Actividad 1 - Reunión de Revisión Inicial**, que forma parte del proyecto final del curso. En esta actividad se programó una reunión de equipo para revisar los avances, asignar roles, planear la finalización del proyecto y actualizar el backlog.
+
+---
+
+## 📌 Contenido del Repositorio
+
+- `actividad_1_bitacora_victor_hugo.docx`: Documento con la bitácora de la reunión, propuestas de modificaciones, calendario de reuniones y asignación de roles.
+- `screenshots/`: Carpeta con evidencias visuales del funcionamiento del proyecto durante los sprints.
+- `codigo/`: Carpeta con la última versión del proyecto en React.
+- `README.md`: Este archivo.
+
+---
+
+## 📅 Calendario de Sprints
+
+| Sprint | Fecha de Inicio | Fecha de Finalización | Tareas Completadas |
+|--------|------------------|------------------------|---------------------|
+| Sprint 1 | 01/03/2025 | 07/03/2025 | Configuración inicial y carrito de compras |
+| Sprint 2 | 08/03/2025 | 14/03/2025 | Gestión de productos y pantalla de Checkout |
+| Sprint 3 | 15/03/2025 | 21/03/2025 | Optimización y pruebas finales |
+
+---
+
+## 🧑‍🤝‍🧑 Roles del Equipo
+
+- **Víctor Hugo de la Cruz Salazar** – Coordinador y documentador del proyecto.
+- Resto del equipo – Revisión de código, propuestas de mejora, pruebas de usuario.
+
+---
+
+## 🛠 Últimas Modificaciones
+
+- Integración de reseñas de productos.
+- Diseño de panel administrativo.
+- Mejora de SEO.
+- Ajustes en responsividad y autenticación.
+
+---
+
+## 🔗 Repositorio en GitHub
+
+Aquí puedes consultar el código fuente y el historial del proyecto:
+
+👉 [Enlace al repositorio](https://github.com/TU_USUARIO/TU_REPOSITORIO) *(Reemplaza con el enlace real)*
+
+---
+
+## ✅ Estado Actual del Proyecto
+
+El producto está optimizado y listo para su fase de pruebas finales y futuras mejoras en producción.
+
+---
+
+## 📄 Licencia
+
+Este proyecto es parte del curso y no está destinado para uso comercial. Uso educativo únicamente.
