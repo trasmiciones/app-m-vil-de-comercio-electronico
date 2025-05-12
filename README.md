@@ -198,3 +198,7 @@ victor hugo de la cruz salazar  Implementación técnica, pruebas de usuario, re
 
  ## 📝 Conclusión
 Gracias a la retroalimentación recibida, se mejoró la experiencia del usuario, la eficiencia del sistema y la estructura de navegación. Esta fase de revisión fue clave para dejar el proyecto listo para su entrega final. Todos los cambios están documentados en la bitácora y reflejados en el repositorio.
+
+## 🔗 Repositorio en GitHub 
+
+git@github.com:trasmiciones/app-m-vil-de-comercio-electronico.git
