@@ -151,8 +151,16 @@ El producto está optimizado y listo para su fase de pruebas finales y futuras m
 Este proyecto es parte del curso y no está destinado para uso comercial. Uso educativo únicamente.
 
 
+
+
+
+##  📌 Actividad 2: Reunión para Revisión de Modificaciones
+
+
 📌 Actividad 2: Reunión para Revisión de Modificaciones
 Proyecto Final – Comercio Electrónico
+
+## 🗓 Bitácora de la Reunión de Modificaciones
 
 🗓 Bitácora de la Reunión de Modificaciones
 Fecha de la reunión: 22 de marzo de 2025
@@ -161,6 +169,8 @@ Coordinador: Víctor Hugo de la Cruz Salazar
 
 Objetivo de la reunión:
 Revisar y aplicar las sugerencias de mejora planteadas por el asesor durante la actividad anterior, actualizar el backlog, y registrar los cambios efectuados en el repositorio del proyecto.
+
+## ✅ Cambios Realizados (Backlog actualizado)
 
 ✅ Cambios Realizados (Backlog actualizado)
 ID	Tarea Modificada/Agregada	Estado	Responsable
@@ -178,10 +188,13 @@ Se hizo merge con main tras la validación por parte del equipo.
 
 Evidencias en la carpeta /screenshots y actualizaciones del proyecto en /codigo.
 
+ ##   👥 Reporte de Roles durante la Actividad 
+  
+
 👥 Reporte de Roles durante la Actividad
 Integrante	Rol durante la actividad
 Víctor Hugo de la Cruz Salazar	Coordinador, documentador de cambios, seguimiento de backlog
 victor hugo de la cruz salazar  Implementación técnica, pruebas de usuario, revisión de código
 
-📝 Conclusión
+ ## 📝 Conclusión
 Gracias a la retroalimentación recibida, se mejoró la experiencia del usuario, la eficiencia del sistema y la estructura de navegación. Esta fase de revisión fue clave para dejar el proyecto listo para su entrega final. Todos los cambios están documentados en la bitácora y reflejados en el repositorio.
