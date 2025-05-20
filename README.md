@@ -281,7 +281,7 @@ Doble rol asumido debido a la dinámica del equipo y tiempos de entrega.
 ## 📦 Repositorio del proyecto
 El proyecto está publicado en GitHub y es de acceso público:
 
-## 🔗 Repositorio 
+## 🔗 Repositorio git@github.com:trasmiciones/app-m-vil-de-comercio-electronico.git 
 
 ## 🧾 Referencias
 React. (s.f.). Comunidad y proyectos de ejemplo. https://es.reactjs.org/community/examples.html
