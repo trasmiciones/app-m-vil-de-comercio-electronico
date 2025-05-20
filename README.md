@@ -202,3 +202,92 @@ Gracias a la retroalimentación recibida, se mejoró la experiencia del usuario,
 ## 🔗 Repositorio en GitHub 
 
 git@github.com:trasmiciones/app-m-vil-de-comercio-electronico.git
+
+
+📄 Documento final: Reporte completo unificado y corregido
+Reporte de Avances en SCRUM: Fases de los Sprints y Documentación Final
+Nombre del estudiante: Víctor Hugo de la Cruz Salazar
+Profesor: José Martín Valencia Villalvazo
+Fecha de entrega: 12 de abril de 2025
+Actividad: Producto Final U3 – Fases y Evidencia de los Sprints
+
+🧩 Introducción
+En este documento presento el desarrollo y las fases del proyecto utilizando la metodología SCRUM. Aquí describo cada sprint, evidencias del funcionamiento, documentación generada, cambios en el backlog, bitácoras de reuniones, y el enlace directo al repositorio del proyecto.
+Este reporte es parte del producto final de la Unidad 3, correspondiente al curso de Desarrollo de Software.
+
+🗂️ Desarrollo del Proyecto
+🔹 Sprint 1 – Configuración y Carrito de Compras
+Se hizo la instalación y configuración del entorno React. En este sprint se desarrolló la funcionalidad del carrito de compras, que almacena productos seleccionados por el usuario y mantiene la persistencia de los datos localmente (mediante localStorage).
+
+🔹 Sprint 2 – Checkout y Componentes
+Se construyó la pantalla de checkout que permite ingresar información de pago, además de componentes reutilizables para productos, listas y botones. Se validó que la experiencia del usuario sea fluida y funcional.
+
+🔹 Sprint 3 – Optimización, Estilos y Responsividad
+Se realizaron ajustes finales en estilos, autenticación de usuarios, y se mejoró la responsividad del sitio. Además, se optimizó el código para que el sistema funcione correctamente en dispositivos móviles y escritorios.
+
+📷 Evidencia del funcionamiento
+El sistema fue probado en tiempo real y hay capturas del proceso en la carpeta /screenshots del repositorio. Algunas de las funcionalidades visibles:
+
+Carrito funcional
+
+Checkout con validación
+
+Diseño responsive
+
+Estilos aplicados correctamente
+
+📅 Calendario de sprints
+Sprint	Fecha de inicio	Fecha de finalización	Actividad principal
+1	1 de marzo	7 de marzo	Carrito de compras, estructura básica
+2	8 de marzo	14 de marzo	Checkout, componentes y funciones clave
+3	15 de marzo	22 de marzo	Optimización, estilos, pruebas finales
+
+✅ Hubo una extensión de 1 día adicional al sprint 3 para corregir detalles del checkout.
+
+📋 Bitácoras de reuniones
+📌 Actividad 1: Planificación inicial
+Se definió el objetivo, calendario, backlog y roles.
+
+Documento: actividad_1_bitacora_victor_hugo.docx
+
+Se realizó en colaboración con el asesor.
+
+Se escribió también un README.md explicando el funcionamiento del sistema.
+
+📌 Actividad 2: Revisión del sistema y mejoras
+Se revisó junto al asesor el avance del sistema.
+
+Se propusieron mejoras, las cuales fueron implementadas.
+
+Se crearon ramas nuevas, se realizaron cambios y se subieron nuevamente al repositorio en la rama principal.
+
+Bitácora: Incluida en carpeta de trabajo.
+
+🔄 Backlog y Sprint Schedule (actualizados)
+✅ Tareas del backlog cumplidas
+ID	Tarea	Estado	Responsable
+5	Agregar reseñas de productos	Completado	Equipo completo
+6	Diseño de panel administrativo	Completado	Equipo completo
+7	Optimización SEO	Completado	Equipo completo
+8	Ajustes de autenticación y responsivo	Completado	Equipo completo
+
+👥 Roles del equipo
+Nombre	Rol
+Víctor Hugo de la Cruz Salazar	Coordinador del proyecto, gestor del backlog y documentación
+Víctor Hugo de la Cruz Salazar	Programador principal, pruebas de usuario, revisión final
+
+Doble rol asumido debido a la dinámica del equipo y tiempos de entrega.
+
+📦 Repositorio del proyecto
+El proyecto está publicado en GitHub y es de acceso público:
+
+🔗 Repositorio – GitHub
+
+🧾 Referencias
+React. (s.f.). Comunidad y proyectos de ejemplo. https://es.reactjs.org/community/examples.html
+
+Arsys. (2023). Ejemplo práctico de desarrollo con React desde cero. https://www.arsys.es/blog/programacion/ejemplo-practico-react/
+
+✅ Conclusión final
+El proyecto cumplió con los objetivos planteados en cada sprint. Se desarrolló un sistema funcional de comercio electrónico utilizando React, siguiendo los principios de SCRUM. La organización por sprints permitió estructurar bien el trabajo, aplicar retroalimentación del asesor y obtener un producto útil y navegable.
+La documentación, el código y las evidencias están organizadas y disponibles en el repositorio oficial.
